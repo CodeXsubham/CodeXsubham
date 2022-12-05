@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subham Singh</h1>
 <h3 align="center">A passionate Web developer.</h3>
 <p align="center">
-    <a href="./giphy-backdrop.mp4"></a>
+    <img src="./giphy-backdrop.mp4" alt="">
 </p>
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
