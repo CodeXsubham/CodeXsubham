@@ -26,6 +26,10 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
+<a href="https://www.frontendmentor.io/profile/CodeXsubham">
+    <img src="https://img.shields.io/badge/Frontend Mentor-6495ED?style=for-the-badge&logo=Frontend Mentor&logoColor=white" alt="">
+</a>&nbsp;&nbsp;
+
 <a href="https://leetcode.com/Subham9311/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>&nbsp;&nbsp;
@@ -99,4 +103,15 @@
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+<hr>
+<hr>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexsubham&" alt="codexsubham" /></p>
+&nbsp;
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=codexsubham&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p> -->
+<p align="center">
+<img  src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built With Love">
 </p>
