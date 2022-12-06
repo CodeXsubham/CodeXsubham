@@ -4,7 +4,7 @@
 
 <ul>
  <li>I am Front-end 👨🏻‍💻 Web Developer.</li>
- <li>I'm curious, and i enjoy work that challenges me tol earn somthng new and strect in a different direction.</li> 
+ <li>I'm curious, and i enjoy work that challenges me to learn somthng new .</li> 
 <!--  <li></li>
  <li></li> -->
  </ul>
