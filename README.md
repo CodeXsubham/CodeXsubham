@@ -35,10 +35,10 @@
     <img src="https://img.shields.io/badge/Frontend Mentor-6495ED?style=for-the-badge&logo=Frontend Mentor&logoColor=white" alt="">
 </a>&nbsp;&nbsp;
 
-<a href="https://leetcode.com/Subham9311/">
+<!-- <a href="https://leetcode.com/Subham9311/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>&nbsp;&nbsp;
-
+ -->
 
 <a href="https://codexsubham.github.io/SubhamSingh.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
