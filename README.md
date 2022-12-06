@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Subham Singh
+# Hi there 👋, I'm Subham Singh From India
 > I am Front-end 👨🏻‍💻 Web Developer.
 > <br>
  And I love playing Games and move the code to squeeze as much learning as possible and apply it to create a better future
