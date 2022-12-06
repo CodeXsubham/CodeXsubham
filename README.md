@@ -2,9 +2,12 @@
  
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-I am Front-end 👨🏻‍💻 Web Developer.
-<br>
-And I love playing Games and move the code to squeeze as much learning as possible and apply it to create a better future.
+<ul>
+ <li>I am Front-end 👨🏻‍💻 Web Developer.</li>
+ <li>I'm curious, and i enjoy work that challenges me tol earn somthng new and strect in a different direction.</li> 
+<!--  <li></li>
+ <li></li> -->
+ </ul>
  
 ## Contact 📱
 <a href="mailto:singhshome2@gmail.com">
