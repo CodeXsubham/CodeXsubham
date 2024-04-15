@@ -70,6 +70,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src=" https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://discord.com/channels/1214607487064612995/1214607581927182426/1229488745363804180"/>
+    
 </p>
 
 <hr>
@@ -84,6 +86,7 @@
     <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img src="https://discord.com/channels/1214607487064612995/1214607581927182426/1229488347466961006"/>
 </p>
 
 ## Skills ✨
@@ -96,11 +99,6 @@
 
 <hr>
 <hr>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexsubham&" alt="codexsubham" /></p>
-&nbsp;
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=codexsubham&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p> -->
 <p align="center">
 <img  src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built With Love">
 </p>
