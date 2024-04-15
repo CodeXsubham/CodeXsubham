@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, Nodejs, Advance Javascript**
 
-- 💬 Ask me about **Html, CSS, Javascript**
-
 - 📫 How to reach me **singhshome2@gmail.com**
 
 - ⚡ Fun fact **I think I am Quite funny.**
