@@ -2,12 +2,16 @@
  
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<ul>
- <li><b>I'm Mern And Android Developer</li>
- <li>𝗜'𝗺 𝗰𝘂𝗿𝗶𝗼𝘂𝘀, 𝗮𝗻𝗱 𝗜 𝗲𝗻𝗷𝗼𝘆 𝘄𝗼𝗿𝗸 𝘁𝗵𝗮𝘁 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝗺𝗲 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗻𝗲𝘄. .</li> 
-<!--  <li></li>
- <li></li> -->
- </ul>
+<h1 align="center">Hi 👋, I'm Subham Singh</h1>
+<h3 align="center">I'm Mern And Android Developer</h3>
+
+- 🌱 I’m currently learning **React, Nodejs, Advance Javascript**
+
+- 💬 Ask me about **Html, CSS, Javascript**
+
+- 📫 How to reach me **singhshome2@gmail.com**
+
+- ⚡ Fun fact **I think I am Quite funny.**
  
 ## Contact 📱
 <a href="mailto:singhshome2@gmail.com">
