@@ -3,7 +3,7 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 
-<h3 align="center">I'm Mern And Android Developer ![image](https://github.com/CodeXsubham/CodeXsubham/assets/119094596/f2624075-82cd-450b-a8a2-567514870031)
+<h3 align="center">I'm Mern And Android Developer <img src ="https://em-content.zobj.net/source/google/387/man-technologist_1f468-200d-1f4bb.png"/>
 </h3>
 
 - 🌱 I’m currently learning **React, Nodejs, Advance Javascript**
