@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs, Advance Javascript**
 
-- 📫 How to reach me <a href="mailto:**singhshome2@gmail.com**">
+- 📫 How to reach me **<a href="mailto:singhshome2@gmail.com">**
 
 - ⚡ Fun fact **I think I am Quite funny.**
  
