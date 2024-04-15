@@ -98,8 +98,8 @@
 </p>
 
 <hr>
+<img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg"/>
 <hr>
 <p align="center">
 <img  src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built With Love">
 </p>
-<img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg"/>
